@@ -4,4 +4,5 @@ A Pizza company wants to create an annual sales report for 2023 . So that the ow
 
 ## Data Set Used 
  - <a href = "https://docs.google.com/spreadsheets/d/1S6_o65KXbAFXZasn_yNOhytmeu4ITcFW/edit?gid=735710272#gid=735710272" a>
+ - <a href = "https://github.com/Nihal08101704/Data-Analysis-Project/blob/main/pizza_sales%20final%20dashboard.xlsx" a>
  
